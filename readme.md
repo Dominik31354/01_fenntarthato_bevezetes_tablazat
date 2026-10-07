@@ -12,28 +12,7 @@ Amennyiben a táblázat elkészült, készítsd el az alap oldalt és helyezd el
 <img src="assest/egyszeru_minta1.png" alt="minta">
 
 
-### Szöveg
-
-✳ Zöld döntések
-Ugrás a táblázathoz ↓
-Fenntarthatóbb iskola · HTML-táblázat minta
-
-Egy döntés.
-Többféle hatás.
-A fenntartható fejlődésről akkor tudunk jól gondolkodni, ha egy döntés környezeti, társadalmi és gazdasági oldalát együtt vizsgáljuk.
-
-Környezet
-Anyagok, energia, víz és az élővilág.
-
-Társadalom
-Kik férnek hozzá, és kinek változik a mindennapja?
-
-Gazdaság
-Mihez kell pénz, munka vagy fenntartás?
-
-Döntések az iskolában
-Négy példa arra, hogyan kapcsolódnak össze a hatások.
-
+### Szövegó
 4 döntés · 3 szempont
 
 
@@ -46,11 +25,10 @@ Négy példa arra, hogyan kapcsolódnak össze a hatások.
 ...
 	....	...	...	
 ...
-Keskeny képernyőn a táblázat vízszintesen görgethető. A sorok lehetséges hatásokat mutatnak, nem számszerű bizonyítékokat.
 
-Oktatási minta a 10. évfolyam HTML-táblázatos feladatához.
 
-Kiinduló olvasmány: Zöld Föld, 9–10. évfolyam, 11–12. oldal.
+
+
 
 
 ### Színek és betűtípusok
